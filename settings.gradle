@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "LISTA DE PERSONAGENS OTAVIO"
